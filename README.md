@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smart-Home-IOT-Dashboards/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
@@ -68,7 +68,7 @@ Below is a detailed comparison of popular SaaS and cloud-hosted IoT dashboard pl
 
 Explore the leading self-hosted, open-source smart home dashboards, visualization engines, and home automation platforms. Sorted descending by GitHub stargazers count.
 
-| 📦 Repository & Project | ⭐ Stars | 📋 Description & Capabilities | 🔗 Direct Links |
+| 📦 Repository & Project | ⭐ GitHub_Stars | 📋 Description & Capabilities | 🔗 Direct Links |
 | :--- | :---: | :--- | :--- |
 | **[Home Assistant](https://github.com/home-assistant/core)** | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | The world's leading open-source home automation hub. Features the modular Lovelace dashboard engine, 3,000+ device integrations, native Matter/Thread/Zigbee support, and local voice assist. | [GitHub](https://github.com/home-assistant/core) • [Website](https://www.home-assistant.io) |
 | **[Grafana](https://github.com/grafana/grafana)** | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Industry-standard observability platform. Commonly paired with InfluxDB, Prometheus, or TimescaleDB to create high-density smart home energy monitoring and sensor telemetry dashboards. | [GitHub](https://github.com/grafana/grafana) • [Website](https://grafana.com) |
